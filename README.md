@@ -1,4 +1,4 @@
-# Zone Records CLI
+# Zone Records CLI 📹
 This is a command line interface (CLI) for managing zone records via the DNSimple API. It allows a developer to list and create zone records, with the option to filter the list of records by name and type and the ability to create SRV records. Validation errors are also handled.
 
 ## Prerequisites
